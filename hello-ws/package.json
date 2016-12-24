@@ -1,0 +1,7 @@
+{
+    "name": "hello-ws",
+    "version": "1.0.0",
+    "dependencies": {
+        "ws": "1.1.1"
+    }
+}
